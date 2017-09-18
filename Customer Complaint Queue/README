@@ -1,0 +1,2 @@
+I designed and implemented a CCQueue class modeling a simple queue for an online computer equipment retailer's customer service department with many angry customers. 
+The data storage of the CCQueue class is supported by a doubly-linked list template class.

@@ -1,0 +1,7 @@
+Implemented five different sorting algorithms, and counted the number of barometer operations performed by each algorithm.
+Sorting Algorithms:
+1. Selection Sort
+2. Quick Sort
+3. Randomized Quick Sort
+4. Merg Sort
+5. Shell Sort

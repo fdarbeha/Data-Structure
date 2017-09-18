@@ -1,0 +1,2 @@
+I implemented a CDCatalogue class for music collection that stores a set of CD objects. 
+The catalogue uses a dynamic array for its underlying data storage requirements.

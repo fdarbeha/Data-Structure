@@ -1,0 +1,3 @@
+Implemented a system for maintaining user account login information. 
+The record system uses a (non-template) hash table class to store a set of UserAccounts. 
+Collisions is be dealt with using separate chaining, and is implemented as an array of templated singly-linked lists.
